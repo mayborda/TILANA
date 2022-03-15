@@ -39,13 +39,6 @@ section {
       margin-top: 1rem;
 }
 
-.tilana{
-  font-size: 5rem;
-  text-decoration: underline;
- font-family: "Sacramento", cursive;
-  color: #AED3B4;
-  font-weight: 900;
-}
 .menu {
   background-color: #FFFFFF;
   color: #181818;
@@ -284,7 +277,6 @@ section {
 
 .home .content {
   flex: 1 1 40rem;
-  padding-top: 6.5rem;
 }
 
 .home .image {
