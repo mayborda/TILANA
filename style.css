@@ -558,6 +558,7 @@ figure {
 }
 .article-1{
   font-size: 1.5rem;
+  font-style: italic;
 }
 .featured-image-1 {
     grid-row: 2;
@@ -613,6 +614,7 @@ img{
 .featured-image-4{
   grid-row: 9;
     grid-column: 1;
+    text-align: center;
 }
 
 @media (min-width: 600px) {
